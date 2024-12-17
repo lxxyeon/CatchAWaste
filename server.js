@@ -1,4 +1,8 @@
+
+// server.js
 import cors from "cors";
+import express from "express";
+import rootRouter from "./rootRouter.js";
 
 const app = express();
 const corsOptions = {
