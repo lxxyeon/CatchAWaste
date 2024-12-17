@@ -2,7 +2,7 @@
   "name": "com.catch.be",
   "version": "1.0.0",
   "description": "catch be",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
   },
